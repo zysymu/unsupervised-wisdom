@@ -24,7 +24,7 @@ apt-get install python3-enchant
 pip install -r requirements.txt
 ```
 
-MacOS (Apple Silicon):
+MacOS with Apple Silicon (note that after the `export` command you need to quit and reopen your terminal):
 ```
 brew install enchant
 export PYENCHANT_LIBRARY_PATH=/opt/homebrew/lib/libenchant-2.2.dylib
