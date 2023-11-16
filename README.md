@@ -16,7 +16,7 @@ My submission, titled "Large Language Models and Topic Modelling for Textual Inf
 
 ### Instructions for running the code
 
-I use the `pyenchant` library, which requires you to must install the enchant C library. To run the code you first need to `git clone` this repository. After going inside the repository you can do the following:
+I use the `pyenchant` library, which requires you to install the enchant C library. To run the code you first need to `git clone` this repository. After going inside the repository you can do the following:
 
 Linux:
 ```
