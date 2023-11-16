@@ -8,7 +8,7 @@ My submission, titled "Large Language Models and Topic Modelling for Textual Inf
 
 ### Repository structure
 
-- `submission.ipynb`: Jupyter notebook file containing my complete analysis thoroughly explained. I recommend using the following [nbviewer link](https://nbviewer.org/github/zysymu/unsupervised-wisdom/blob/main/main.ipynb) to visualize it online.
+- `submission.ipynb`: Jupyter notebook file containing my complete analysis thoroughly explained. I recommend using the following [nbviewer link](https://nbviewer.org/github/zysymu/unsupervised-wisdom/blob/main/submission.ipynb) to visualize it online.
 - `Summary_Marcos_Tidball.pdf`: an executive summary explaining my analysis and demonstrating how it can be applied.
 - `data`: directory containing all of the data used.
     - `official`: directory containing data provided by the competition hosts.
